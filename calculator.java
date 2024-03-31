@@ -1,4 +1,4 @@
-class Calculator {
+class calculator {
     void add(int a, int b) {
         System.out.println("Addition " + (a + b));
     }
@@ -23,7 +23,7 @@ class Calculator {
         int a = 10; // Change the value of 'a' to a desired number
         int b = 5; // Change the value of 'b' to a desired number
 
-        Calculator c = new Calculator();
+        calculator c = new calculator();
         c.add(a, b);
         c.subtract(a, b);
         c.multiply(a, b);
