@@ -18,9 +18,6 @@ class Calculator {
             System.out.println("Cannot divide by zero");
         }
     }
-}
-
-public class Main {
 
     public static void main(String args[]) {
         int a = 10; // Change the value of 'a' to a desired number
